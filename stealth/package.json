@@ -1,0 +1,22 @@
+{
+  "name": "stealth",
+  "version": "0.0.1",
+  "dependencies": {
+    "bs58check": "1.0.6",
+    "bigi": "1.4.0",
+    "bitcoinjs-lib": "1.5.8",
+    "elliptic": "5.1.0"
+  },
+  "description": "Demo Stealth Address App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stealth",
+    "address",
+    "bitcoin"
+  ],
+  "author": "Richard Moore <em@ricmoo.com>",
+  "license": "MIT"
+}
