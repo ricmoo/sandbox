@@ -7,5 +7,5 @@ This is just a little place on GitHub for me to throw randomness that I don't kn
 Contact
 -------
 
-email: github@ricmoo.com
-website: www.ricmoo.com
+- email: github@ricmoo.com
+- website: www.ricmoo.com
